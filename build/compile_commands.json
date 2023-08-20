@@ -1,0 +1,164 @@
+[
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\g++.exe  @CMakeFiles/OpenGLStuffs.dir/includes_CXX.rsp -g -m64 -g -std=c++17 -o CMakeFiles\\OpenGLStuffs.dir\\src\\main.cpp.obj -c D:\\Projects\\github\\OpenGLStuffs\\src\\main.cpp",
+  "file": "D:/Projects/github/OpenGLStuffs/src/main.cpp",
+  "output": "CMakeFiles/OpenGLStuffs.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\g++.exe  @CMakeFiles/OpenGLStuffs.dir/includes_CXX.rsp -g -m64 -g -std=c++17 -o CMakeFiles\\OpenGLStuffs.dir\\src\\Basic\\GLFWWindow.cpp.obj -c D:\\Projects\\github\\OpenGLStuffs\\src\\Basic\\GLFWWindow.cpp",
+  "file": "D:/Projects/github/OpenGLStuffs/src/Basic/GLFWWindow.cpp",
+  "output": "CMakeFiles/OpenGLStuffs.dir/src/Basic/GLFWWindow.cpp.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\g++.exe  @CMakeFiles/OpenGLStuffs.dir/includes_CXX.rsp -g -m64 -g -std=c++17 -o CMakeFiles\\OpenGLStuffs.dir\\src\\Renderer\\Shader.cpp.obj -c D:\\Projects\\github\\OpenGLStuffs\\src\\Renderer\\Shader.cpp",
+  "file": "D:/Projects/github/OpenGLStuffs/src/Renderer/Shader.cpp",
+  "output": "CMakeFiles/OpenGLStuffs.dir/src/Renderer/Shader.cpp.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\g++.exe  @CMakeFiles/OpenGLStuffs.dir/includes_CXX.rsp -g -m64 -g -std=c++17 -o CMakeFiles\\OpenGLStuffs.dir\\src\\Renderer\\Texture.cpp.obj -c D:\\Projects\\github\\OpenGLStuffs\\src\\Renderer\\Texture.cpp",
+  "file": "D:/Projects/github/OpenGLStuffs/src/Renderer/Texture.cpp",
+  "output": "CMakeFiles/OpenGLStuffs.dir/src/Renderer/Texture.cpp.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\g++.exe  @CMakeFiles/OpenGLStuffs.dir/includes_CXX.rsp -g -m64 -g -std=c++17 -o CMakeFiles\\OpenGLStuffs.dir\\vendor\\stb_image\\stb_image.cpp.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\stb_image\\stb_image.cpp",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/stb_image/stb_image.cpp",
+  "output": "CMakeFiles/OpenGLStuffs.dir/vendor/stb_image/stb_image.cpp.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build/vendor/glfw/src",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\context.c.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\glfw\\src\\context.c",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/glfw/src/context.c",
+  "output": "vendor/glfw/src/CMakeFiles/glfw.dir/context.c.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build/vendor/glfw/src",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\init.c.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\glfw\\src\\init.c",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/glfw/src/init.c",
+  "output": "vendor/glfw/src/CMakeFiles/glfw.dir/init.c.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build/vendor/glfw/src",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\input.c.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\glfw\\src\\input.c",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/glfw/src/input.c",
+  "output": "vendor/glfw/src/CMakeFiles/glfw.dir/input.c.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build/vendor/glfw/src",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\monitor.c.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\glfw\\src\\monitor.c",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/glfw/src/monitor.c",
+  "output": "vendor/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build/vendor/glfw/src",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\platform.c.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\glfw\\src\\platform.c",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/glfw/src/platform.c",
+  "output": "vendor/glfw/src/CMakeFiles/glfw.dir/platform.c.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build/vendor/glfw/src",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\vulkan.c.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\glfw\\src\\vulkan.c",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/glfw/src/vulkan.c",
+  "output": "vendor/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build/vendor/glfw/src",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\window.c.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\glfw\\src\\window.c",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/glfw/src/window.c",
+  "output": "vendor/glfw/src/CMakeFiles/glfw.dir/window.c.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build/vendor/glfw/src",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\egl_context.c.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\glfw\\src\\egl_context.c",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/glfw/src/egl_context.c",
+  "output": "vendor/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build/vendor/glfw/src",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\osmesa_context.c.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\glfw\\src\\osmesa_context.c",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/glfw/src/osmesa_context.c",
+  "output": "vendor/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build/vendor/glfw/src",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\null_init.c.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\glfw\\src\\null_init.c",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/glfw/src/null_init.c",
+  "output": "vendor/glfw/src/CMakeFiles/glfw.dir/null_init.c.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build/vendor/glfw/src",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\null_monitor.c.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\glfw\\src\\null_monitor.c",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/glfw/src/null_monitor.c",
+  "output": "vendor/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build/vendor/glfw/src",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\null_window.c.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\glfw\\src\\null_window.c",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/glfw/src/null_window.c",
+  "output": "vendor/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build/vendor/glfw/src",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\null_joystick.c.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\glfw\\src\\null_joystick.c",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/glfw/src/null_joystick.c",
+  "output": "vendor/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build/vendor/glfw/src",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_module.c.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\glfw\\src\\win32_module.c",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/glfw/src/win32_module.c",
+  "output": "vendor/glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build/vendor/glfw/src",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_time.c.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\glfw\\src\\win32_time.c",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/glfw/src/win32_time.c",
+  "output": "vendor/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build/vendor/glfw/src",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_thread.c.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\glfw\\src\\win32_thread.c",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/glfw/src/win32_thread.c",
+  "output": "vendor/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build/vendor/glfw/src",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_init.c.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\glfw\\src\\win32_init.c",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/glfw/src/win32_init.c",
+  "output": "vendor/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build/vendor/glfw/src",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_joystick.c.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\glfw\\src\\win32_joystick.c",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/glfw/src/win32_joystick.c",
+  "output": "vendor/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build/vendor/glfw/src",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\glfw\\src\\win32_monitor.c",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/glfw/src/win32_monitor.c",
+  "output": "vendor/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build/vendor/glfw/src",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_window.c.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\glfw\\src\\win32_window.c",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/glfw/src/win32_window.c",
+  "output": "vendor/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build/vendor/glfw/src",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\wgl_context.c.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\glfw\\src\\wgl_context.c",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/glfw/src/wgl_context.c",
+  "output": "vendor/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj"
+},
+{
+  "directory": "D:/Projects/github/OpenGLStuffs/build/vendor/glad",
+  "command": "C:\\Users\\georg\\scoop\\apps\\mingw\\current\\bin\\gcc.exe  @CMakeFiles/GLAD.dir/includes_C.rsp -g -o CMakeFiles\\GLAD.dir\\src\\glad.c.obj -c D:\\Projects\\github\\OpenGLStuffs\\vendor\\glad\\src\\glad.c",
+  "file": "D:/Projects/github/OpenGLStuffs/vendor/glad/src/glad.c",
+  "output": "vendor/glad/CMakeFiles/GLAD.dir/src/glad.c.obj"
+}
+]

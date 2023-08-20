@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "Windows",
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json",
+            "intelliSenseMode": "gcc-x64",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
