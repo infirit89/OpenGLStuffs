@@ -7,6 +7,7 @@
 
 #include <cstdint>
 #include <string>
+#include <glm/glm.hpp>
 
 namespace OpenGLStuffs 
 {
@@ -20,6 +21,7 @@ namespace OpenGLStuffs
 
         void SetUniformFloat(const char* uniformName, float value);
         void SetUniformInt(const char* uniformName, int value);
+        void SetUniformMat4(const char* uniformName, glm::mat4 value);
 
     private:
         enum class ShaderType 

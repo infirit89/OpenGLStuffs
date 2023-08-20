@@ -7,6 +7,9 @@
 
 #include <stb_image.h>
 
+#include <glm/glm.hpp>
+#include <glm/gtc/matrix_transform.hpp>
+
 #include <iostream>
 #include <fstream>
 #include <assert.h>
@@ -18,27 +21,89 @@ void OnFrameBufferResize(uint32_t width, uint32_t height)
     glViewport(0, 0, width, height);
 }
 
+struct Vertex 
+{
+    glm::vec3 Position;
+    glm::vec3 Color;
+    glm::vec2 TextureCoordinates;
+};
+
 float vertices[] = 
 {
-    // positions        // colors         // tex coords
-     0.5f,  0.5f, 0.0f, 1.0f, 0.0f, 0.0f, 1.0f, 1.0f,
-     0.5f, -0.5f, 0.0f, 0.0f, 1.0f, 0.0f, 1.0f, 0.0f,
-    -0.5f, -0.5f, 0.0f, 0.0f, 0.0f, 1.0f, 0.0f, 0.0f,
-    -0.5f,  0.5f, 0.0f, 1.0f, 0.0f, 0.0f, 0.0f, 1.0f
+    // positions        // tex coords
+     0.5f,  0.5f, -0.5f, 1.0f, 1.0f, // 0
+     0.5f, -0.5f, -0.5f, 1.0f, 0.0f, // 1
+    -0.5f, -0.5f, -0.5f, 0.0f, 0.0f, // 2
+    -0.5f,  0.5f, -0.5f, 0.0f, 1.0f, // 3
+
+     0.5f,  0.5f, 0.5f, 1.0f, 1.0f, // 4
+     0.5f, -0.5f, 0.5f, 1.0f, 0.0f, // 5
+    -0.5f, -0.5f, 0.5f, 0.0f, 0.0f, // 6
+    -0.5f,  0.5f, 0.5f, 0.0f, 1.0f, // 7
+
+    -0.5f,  0.5f, -0.5f, 1.0f, 1.0f, // 8
+    -0.5f, -0.5f, -0.5f, 1.0f, 0.0f, // 9
+    -0.5f, -0.5f,  0.5f, 0.0f, 0.0f, // 10
+    -0.5f,  0.5f,  0.5f, 0.0f, 1.0f, // 11
+
+     0.5f,  0.5f, -0.5f, 1.0f, 1.0f, // 12
+     0.5f, -0.5f, -0.5f, 1.0f, 0.0f, // 13
+     0.5f, -0.5f,  0.5f, 0.0f, 0.0f, // 14
+     0.5f,  0.5f,  0.5f, 0.0f, 1.0f, // 15
+
+     0.5f, -0.5f, -0.5f, 1.0f, 1.0f, // 16
+     0.5f, -0.5f,  0.5f, 1.0f, 0.0f, // 17
+    -0.5f, -0.5f,  0.5f, 0.0f, 0.0f, // 18
+    -0.5f,  0.5f, -0.5f, 0.0f, 1.0f, // 19
+
+     0.5f,  0.5f, -0.5f, 1.0f, 1.0f, // 20
+     0.5f,  0.5f,  0.5f, 1.0f, 0.0f, // 21
+    -0.5f,  0.5f,  0.5f, 0.0f, 0.0f, // 22
+    -0.5f,  0.5f, -0.5f, 0.0f, 1.0f  // 23
 };
 
 unsigned int indices[] = 
 {
+    // first side
     0, 1, 2,
-    2, 3, 0
+    2, 3, 0,
+
+    // second side
+    4, 5, 6,
+    6, 7, 4,
+
+    // third side
+    8, 9, 10,
+    10, 11, 8,
+
+    // fourth side
+    12, 13, 14,
+    14, 15, 12,
+
+    // fifth side
+    16, 17, 18,
+    18, 19, 16,
+
+    // sixth side
+    20, 21, 22,
+    22, 23, 20
 };
 
 bool polygonMode = true;
+float angle = 0.0f;
 
 void OnKeyPress(int key, int action) 
 {
     if(key == GLFW_KEY_F && action == GLFW_PRESS)
         polygonMode = !polygonMode;
+
+    if(action == GLFW_REPEAT) 
+    {
+        if(key == GLFW_KEY_D)
+            angle += 1.0f;
+        else if(key == GLFW_KEY_A)
+            angle -= 1.0f;
+    }
 }
 
 void glDebugOutput(GLenum source, 
@@ -88,9 +153,11 @@ void glDebugOutput(GLenum source,
     std::cout << std::endl;
 }
 
+const uint32_t WIDTH = 800, HEIGHT = 700;
+
 int main() 
 {
-    Window window(300, 200, "Test");
+    Window window(WIDTH, HEIGHT, "Test");
     window.SetFrameBufferResizeCallback(&OnFrameBufferResize);
     window.SetKeyPressCallback(&OnKeyPress);
 
@@ -105,6 +172,8 @@ int main()
         glDebugMessageControl(GL_DONT_CARE, GL_DONT_CARE, GL_DONT_CARE, 0, nullptr, GL_TRUE);
     }
 
+    glEnable(GL_DEPTH_TEST);
+
     std::cout << "Graphics card: " << glGetString(GL_RENDERER) << '\n';
     std::cout << "OpenGL version: " << glGetString(GL_VERSION) << '\n';
 
@@ -118,8 +187,6 @@ int main()
 
     Texture texture("assets/0x0.jpg");
 
-    Texture texture2("assets/download.jpg");
-
     uint32_t vertexArray;
     glGenVertexArrays(1, &vertexArray);
     glBindVertexArray(vertexArray);
@@ -130,39 +197,59 @@ int main()
     glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, indexBuffer);
     glBufferData(GL_ELEMENT_ARRAY_BUFFER, sizeof(indices), indices, GL_STATIC_DRAW);
 
-    glVertexAttribPointer(0, 3, GL_FLOAT, GL_FALSE, 8 * sizeof(float), nullptr);
+    glVertexAttribPointer(0, 3, GL_FLOAT, GL_FALSE, 5 * sizeof(float), nullptr);
     glEnableVertexAttribArray(0);
 
-    glVertexAttribPointer(1, 3, GL_FLOAT, GL_FALSE, 8 * sizeof(float), (void*)(3 * sizeof(float)));
+    glVertexAttribPointer(1, 2, GL_FLOAT, GL_FALSE, 5 * sizeof(float), (void*)(3 * sizeof(float)));
     glEnableVertexAttribArray(1);
 
-    glVertexAttribPointer(2, 2, GL_FLOAT, GL_FALSE, 8 * sizeof(float), (void*)(6 * sizeof(float)));
-    glEnableVertexAttribArray(2);
-
     shader.Bind();
-
-    shader.SetUniformInt("u_Texture", 0);
-    shader.SetUniformInt("u_Texture2", 1);
+    // texture.Bind();
 
     glClearColor(1.0f, 0.1f, 0.1f, 1.0f);
     float xoffset = 0.0f;
     float direction = 0.01f;
 
+
     while(window.IsOpen()) 
     {
-        glClear(GL_COLOR_BUFFER_BIT);
+
+        glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+
+        glm::mat4 view = glm::mat4(1.0f);
+        view = glm::translate(view, glm::vec3(0.0f, 0.0f, -90.0f));
+
+        glm::mat4 projection = glm::mat4(1.0f);
+        projection = glm::perspective(
+                                glm::radians(45.0f),
+                                (float)WIDTH / (float)HEIGHT,
+                                0.1f,
+                                100.0f);
+        glm::mat4 model = glm::mat4(1.0f);
+        // model = glm::rotate(model, -30.0f, glm::vec3(0.0f, 1.0f, 0.0f)); 
+
+        // shader.SetUniformMat4("model", model);
+        shader.SetUniformMat4("view", view);
+        shader.SetUniformMat4("projection", projection);
+
+        model = 
+                glm::rotate(
+                        model,
+                        angle,
+                        glm::vec3(0.5f, 1.0f, 0.0f));
+        
+        std::cout << glfwGetTime() << "\n";
+
+        shader.SetUniformMat4("model", model);
+
         if(polygonMode)
             glPolygonMode(GL_FRONT_AND_BACK, GL_FILL);
         else
             glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
 
-        texture.Bind(0);
-        texture2.Bind(1);
-
-        
         glBindVertexArray(vertexArray);
-        glDrawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, 0);
-        
+        glDrawElements(GL_TRIANGLES, 36, GL_UNSIGNED_INT, 0);
+
         window.Update();
     }
 

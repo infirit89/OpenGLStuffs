@@ -1846,6 +1846,18 @@
 			"value" : "OFF"
 		},
 		{
+			"name" : "GLM_TEST_ENABLE",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "GLM test"
+				}
+			],
+			"type" : "BOOL",
+			"value" : "OFF"
+		},
+		{
 			"name" : "OpenGLStuffs_BINARY_DIR",
 			"properties" : 
 			[
@@ -1916,6 +1928,42 @@
 			],
 			"type" : "INTERNAL",
 			"value" : "C:/Program Files (x86)/OpenGLStuffs"
+		},
+		{
+			"name" : "glm_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "D:/Projects/github/OpenGLStuffs/build/vendor/glm"
+		},
+		{
+			"name" : "glm_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "OFF"
+		},
+		{
+			"name" : "glm_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "D:/Projects/github/OpenGLStuffs/vendor/glm"
 		}
 	],
 	"kind" : "cache",

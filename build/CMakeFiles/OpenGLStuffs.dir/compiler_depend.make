@@ -218,6 +218,7 @@ CMakeFiles/OpenGLStuffs.dir/src/Renderer/Shader.cpp.obj: D:/Projects/github/Open
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
@@ -233,13 +234,18 @@ CMakeFiles/OpenGLStuffs.dir/src/Renderer/Shader.cpp.obj: D:/Projects/github/Open
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cassert \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cfloat \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
@@ -256,6 +262,7 @@ CMakeFiles/OpenGLStuffs.dir/src/Renderer/Shader.cpp.obj: D:/Projects/github/Open
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
@@ -265,6 +272,18 @@ CMakeFiles/OpenGLStuffs.dir/src/Renderer/Shader.cpp.obj: D:/Projects/github/Open
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
@@ -281,11 +300,17 @@ CMakeFiles/OpenGLStuffs.dir/src/Renderer/Shader.cpp.obj: D:/Projects/github/Open
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/emmintrin.h \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/float.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mmintrin.h \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mwaitintrin.h \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/pmmintrin.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xmmintrin.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/_mingw.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/_mingw_mac.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/_mingw_off_t.h \
@@ -300,9 +325,11 @@ CMakeFiles/OpenGLStuffs.dir/src/Renderer/Shader.cpp.obj: D:/Projects/github/Open
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/crtdefs.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/ctype.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/errno.h \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/float.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/limits.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/locale.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/malloc.h \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/math.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/process.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/pthread.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/pthread_compat.h \
@@ -312,6 +339,7 @@ CMakeFiles/OpenGLStuffs.dir/src/Renderer/Shader.cpp.obj: D:/Projects/github/Open
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/sec_api/string_s.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/signal.h \
@@ -319,6 +347,7 @@ CMakeFiles/OpenGLStuffs.dir/src/Renderer/Shader.cpp.obj: D:/Projects/github/Open
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/stdint.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/stdio.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/stdlib.h \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/string.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/swprintf.inl \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/sys/timeb.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/sys/types.h \
@@ -328,6 +357,72 @@ CMakeFiles/OpenGLStuffs.dir/src/Renderer/Shader.cpp.obj: D:/Projects/github/Open
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/wctype.h \
   D:/Projects/github/OpenGLStuffs/vendor/glad/include/KHR/khrplatform.h \
   D:/Projects/github/OpenGLStuffs/vendor/glad/include/glad/glad.h \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/_detail.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/_fixes.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/_swizzle.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/_swizzle_func.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/_vectorize.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_common.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_common.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_exponential.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_exponential.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_geometric.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_geometric.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_integer.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_integer.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_matrix.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_matrix.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_noise.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_noise.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_packing.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_packing.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_trigonometric.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_trigonometric.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_vector_relational.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_vector_relational.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/setup.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_float.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_gentype.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_half.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_half.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_int.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat2x2.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat2x2.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat2x3.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat2x3.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat2x4.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat2x4.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat3x2.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat3x2.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat3x3.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat3x3.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat3x4.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat3x4.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat4x2.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat4x2.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat4x3.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat4x3.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat4x4.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat4x4.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_size.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec1.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec1.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec2.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec2.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec3.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec3.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec4.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec4.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/glm.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/gtc/half_float.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/gtc/half_float.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/gtc/quaternion.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/gtc/quaternion.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/gtc/type_ptr.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/gtc/type_ptr.inl \
   D:/Projects/github/OpenGLStuffs/src/Renderer/Shader.h
 
 CMakeFiles/OpenGLStuffs.dir/src/Renderer/Texture.cpp.obj: D:/Projects/github/OpenGLStuffs/src/Renderer/Texture.cpp \
@@ -421,6 +516,7 @@ CMakeFiles/OpenGLStuffs.dir/src/main.cpp.obj: D:/Projects/github/OpenGLStuffs/sr
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
@@ -446,9 +542,13 @@ CMakeFiles/OpenGLStuffs.dir/src/main.cpp.obj: D:/Projects/github/OpenGLStuffs/sr
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cassert \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cfloat \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint \
@@ -472,6 +572,7 @@ CMakeFiles/OpenGLStuffs.dir/src/main.cpp.obj: D:/Projects/github/OpenGLStuffs/sr
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
@@ -481,6 +582,18 @@ CMakeFiles/OpenGLStuffs.dir/src/main.cpp.obj: D:/Projects/github/OpenGLStuffs/sr
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
@@ -499,11 +612,17 @@ CMakeFiles/OpenGLStuffs.dir/src/main.cpp.obj: D:/Projects/github/OpenGLStuffs/sr
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/emmintrin.h \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/float.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mmintrin.h \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mwaitintrin.h \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/pmmintrin.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xmmintrin.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/_mingw.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/_mingw_mac.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/_mingw_off_t.h \
@@ -518,9 +637,11 @@ CMakeFiles/OpenGLStuffs.dir/src/main.cpp.obj: D:/Projects/github/OpenGLStuffs/sr
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/crtdefs.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/ctype.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/errno.h \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/float.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/limits.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/locale.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/malloc.h \
+  C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/math.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/process.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/pthread.h \
   C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/pthread_compat.h \
@@ -547,6 +668,68 @@ CMakeFiles/OpenGLStuffs.dir/src/main.cpp.obj: D:/Projects/github/OpenGLStuffs/sr
   D:/Projects/github/OpenGLStuffs/vendor/glad/include/KHR/khrplatform.h \
   D:/Projects/github/OpenGLStuffs/vendor/glad/include/glad/glad.h \
   D:/Projects/github/OpenGLStuffs/vendor/glfw/include/GLFW/glfw3.h \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/_detail.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/_fixes.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/_swizzle.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/_swizzle_func.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/_vectorize.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_common.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_common.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_exponential.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_exponential.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_geometric.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_geometric.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_integer.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_integer.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_matrix.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_matrix.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_noise.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_noise.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_packing.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_packing.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_trigonometric.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_trigonometric.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_vector_relational.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_vector_relational.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/setup.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_float.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_gentype.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_half.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_half.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_int.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat2x2.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat2x2.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat2x3.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat2x3.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat2x4.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat2x4.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat3x2.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat3x2.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat3x3.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat3x3.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat3x4.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat3x4.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat4x2.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat4x2.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat4x3.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat4x3.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat4x4.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat4x4.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_size.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec1.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec1.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec2.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec2.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec3.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec3.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec4.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec4.inl \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/glm.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/gtc/matrix_transform.hpp \
+  D:/Projects/github/OpenGLStuffs/vendor/glm/glm/gtc/matrix_transform.inl \
   D:/Projects/github/OpenGLStuffs/vendor/stb_image/stb_image.h \
   D:/Projects/github/OpenGLStuffs/src/Basic/GLFWWindow.h \
   D:/Projects/github/OpenGLStuffs/src/Renderer/Shader.h \
@@ -661,13 +844,19 @@ OpenGLStuffs.exe: C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-
   vendor/glfw/src/libglfw3.a
 
 
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat4x3.hpp:
+
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/process.h:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h:
 
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type.hpp:
+
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/lib/libopengl32.a:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/_vectorize.hpp:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/sec_api/stdlib_s.h:
 
@@ -725,6 +914,8 @@ C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h:
 
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/gtc/type_ptr.inl:
+
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc:
@@ -779,6 +970,8 @@ C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h:
 
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec1.hpp:
+
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h:
@@ -788,6 +981,8 @@ C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc:
+
+C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/pmmintrin.h:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h:
 
@@ -831,6 +1026,8 @@ C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h:
 
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_half.inl:
+
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h:
@@ -840,6 +1037,8 @@ C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/pt
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_float.hpp:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h:
 
@@ -861,6 +1060,8 @@ C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype:
 
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/gtc/half_float.inl:
+
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale:
@@ -873,6 +1074,10 @@ C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib:
 
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec2.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec1.inl:
+
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype:
@@ -884,6 +1089,8 @@ C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/lib/libuser32.a:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_geometric.hpp:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h:
 
@@ -939,6 +1146,8 @@ C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string:
 
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_exponential.hpp:
+
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/signal.h:
@@ -953,7 +1162,11 @@ C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map:
 
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/_detail.hpp:
+
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_vector_relational.hpp:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h:
 
@@ -962,6 +1175,8 @@ vendor/glad/libGLAD.a:
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/gtc/half_float.hpp:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h:
 
@@ -1031,11 +1246,15 @@ C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/st
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/swprintf.inl:
 
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat4x2.inl:
+
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/sys/timeb.h:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/sys/types.h:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/time.h:
+
+C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/vadefs.h:
 
@@ -1045,6 +1264,8 @@ C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/wc
 
 D:/Projects/github/OpenGLStuffs/vendor/glad/include/KHR/khrplatform.h:
 
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_common.inl:
+
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++io.h:
 
 D:/Projects/github/OpenGLStuffs/vendor/glad/include/glad/glad.h:
@@ -1053,31 +1274,27 @@ C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13
 
 D:/Projects/github/OpenGLStuffs/vendor/glfw/include/GLFW/glfw3.h:
 
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_vector_relational.inl:
+
 D:/Projects/github/OpenGLStuffs/src/Basic/GLFWWindow.h:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fstream.tcc:
+
+C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h:
+
+C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cassert:
+
+C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cfloat:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/lib/crt2.o:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint:
 
+C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring:
+
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/fstream:
 
-C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h:
-
-D:/Projects/github/OpenGLStuffs/src/Renderer/Shader.h:
-
-D:/Projects/github/OpenGLStuffs/src/Renderer/Texture.cpp:
-
-D:/Projects/github/OpenGLStuffs/src/Renderer/Texture.h:
-
-D:/Projects/github/OpenGLStuffs/src/main.cpp:
-
-C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h:
-
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits:
-
-C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/math.h:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc:
 
@@ -1089,31 +1306,153 @@ C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h:
 
-C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h:
+C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat3x4.inl:
+
+C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/float.h:
+
+C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mwaitintrin.h:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/gtc/quaternion.hpp:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xmmintrin.h:
 
-C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/_mingw_stdarg.h:
+C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/float.h:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/math.h:
 
-C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/stdarg.h:
-
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/string.h:
 
-C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/lib/libadvapi32.a:
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/_fixes.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/_swizzle.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/_swizzle_func.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_common.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_exponential.inl:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_geometric.inl:
+
+C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/lib/libwinspool.a:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_integer.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/glm.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_integer.inl:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec3.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_matrix.hpp:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/lib/libgdi32.a:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec3.inl:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_matrix.inl:
+
+C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/lib/libmsvcrt.a:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_noise.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_noise.inl:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat2x3.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_packing.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat2x3.inl:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_packing.inl:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_trigonometric.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/func_trigonometric.inl:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/setup.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_gentype.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_half.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_int.hpp:
+
+C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/lib/libmingw32.a:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat2x2.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat2x2.inl:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat2x4.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat2x4.inl:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/gtc/quaternion.inl:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat3x2.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat3x2.inl:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat3x3.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat3x3.inl:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat3x4.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat4x2.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat4x3.inl:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat4x4.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_mat4x4.inl:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_size.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec4.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec2.inl:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/core/type_vec4.inl:
+
+vendor/glfw/src/libglfw3.a:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/gtc/type_ptr.hpp:
+
+D:/Projects/github/OpenGLStuffs/src/Renderer/Shader.h:
+
+D:/Projects/github/OpenGLStuffs/src/Renderer/Texture.cpp:
+
+D:/Projects/github/OpenGLStuffs/src/Renderer/Texture.h:
+
+D:/Projects/github/OpenGLStuffs/src/main.cpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/gtc/matrix_transform.hpp:
+
+D:/Projects/github/OpenGLStuffs/vendor/glm/glm/gtc/matrix_transform.inl:
+
+C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/math.h:
+
+C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h:
+
+C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/_mingw_stdarg.h:
+
+C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/include/stdarg.h:
+
+C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/lib/libadvapi32.a:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/lib/libiconv.a:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/lib/libkernel32.a:
 
-C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/lib/libmingw32.a:
-
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/lib/libmingwex.a:
-
-C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/lib/libmsvcrt.a:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/lib/liboleaut32.a:
 
@@ -1123,12 +1462,8 @@ C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/lib/libshe
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/lib/libuuid.a:
 
-C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/x86_64-w64-mingw32/lib/libwinspool.a:
-
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o:
 
 C:/Users/georg/scoop/apps/mingw/13.1.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/libstdc++.dll.a:
-
-vendor/glfw/src/libglfw3.a:

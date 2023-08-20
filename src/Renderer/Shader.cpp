@@ -5,6 +5,8 @@
 #include <fstream>
 #include <iostream>
 
+#include <glm/gtc/type_ptr.hpp>
+
 namespace OpenGLStuffs 
 {
     #define INVALID_PROGRAM 0
@@ -119,5 +121,12 @@ namespace OpenGLStuffs
     {
         int loc = glGetUniformLocation(m_ShaderProgram, uniformName);
         glUniform1i(loc, value);
+    }
+
+    void Shader::SetUniformMat4(const char* uniformName, glm::mat4 value) 
+    {
+        int loc = glGetUniformLocation(m_ShaderProgram, uniformName);
+        assert(loc != -1);
+        glUniformMatrix4fv(loc, 1, GL_FALSE, &value[0][0]);
     }
 }

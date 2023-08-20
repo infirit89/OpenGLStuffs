@@ -14,13 +14,15 @@ add_executable(OpenGLStuffs
     src/Renderer/Texture.h
     src/Renderer/Texture.cpp
     vendor/stb_image/stb_image.h
-    vendor/stb_image/stb_image.cpp)
+    vendor/stb_image/stb_image.cpp
+    )
 
 target_include_directories(OpenGLStuffs PRIVATE
     src
     vendor/glfw/include
     vendor/glad/include
-    vendor/stb_image)
+    vendor/stb_image
+    vendor/glm)
 
 add_subdirectory(vendor/glfw)
 add_subdirectory(vendor/glad)

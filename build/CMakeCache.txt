@@ -350,6 +350,9 @@ GLFW_SOURCE_DIR:STATIC=D:/Projects/github/OpenGLStuffs/vendor/glfw
 //Force use of high-performance GPU on hybrid systems
 GLFW_USE_HYBRID_HPG:BOOL=OFF
 
+//GLM test
+GLM_TEST_ENABLE:BOOL=OFF
+
 //Value Computed by CMake
 OpenGLStuffs_BINARY_DIR:STATIC=D:/Projects/github/OpenGLStuffs/build
 
@@ -358,6 +361,15 @@ OpenGLStuffs_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 OpenGLStuffs_SOURCE_DIR:STATIC=D:/Projects/github/OpenGLStuffs
+
+//Value Computed by CMake
+glm_BINARY_DIR:STATIC=D:/Projects/github/OpenGLStuffs/build/vendor/glm
+
+//Value Computed by CMake
+glm_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+glm_SOURCE_DIR:STATIC=D:/Projects/github/OpenGLStuffs/vendor/glm
 
 
 ########################
